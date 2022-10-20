@@ -122,7 +122,7 @@ a:focus {
 }
 
 .navbar-brand img {
-  width: 30px;
+  width: 120px;
   margin-right: 5px;
 }
 
@@ -769,8 +769,9 @@ a:focus {
 }
 
 .info_section .info_container .info_logo a img {
-  width: 50px;
-  margin-right: 10px;
+  width: 200px;
+  height:200px;
+  margin-right: -50px;
 }
 
 .info_section .info_container .info_logo a span {

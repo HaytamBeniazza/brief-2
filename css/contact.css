@@ -124,7 +124,6 @@ a:focus {
 .navbar-brand img {
   width: 120px;
   margin-right: 5px;
-  background-color: #f8bf46;
 }
 
 .navbar-brand span {
@@ -258,8 +257,8 @@ input[type=text], select, textarea, #bname , #cname{
 }
 
 .info_section .info_container .info_logo a img {
-  width: 50px;
-  margin-right: 10px;
+  width: 200px;
+  margin-right: -50px;
 }
 
 .info_section .info_container .info_logo a span {
