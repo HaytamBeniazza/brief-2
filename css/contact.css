@@ -258,7 +258,7 @@ input[type=text], select, textarea, #bname , #cname{
 
 .info_section .info_container .info_logo a img {
   width: 200px;
-  margin-right: -50px;
+  margin-right: 0px;
 }
 
 .info_section .info_container .info_logo a span {
